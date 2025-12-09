@@ -71,9 +71,7 @@ modern, clean and responsive UI using **React + Tailwind CSS**.
 
 ---
 
-### 🐍 Contribution Snake  
-![snake gif](https://github.com/sarbajitjana/sarbajitjana/blob/output/github-contribution-grid-snake.svg)
-
+ 
 ---
 
 ⭐ **Thanks for visiting my profile!**
