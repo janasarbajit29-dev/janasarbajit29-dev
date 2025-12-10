@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Sarbajit+Jana;Frontend+Developer;React+%7C+JavaScript+%7C+Tailwind" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Sarbajit+Jana; Fullstack Developer (MERN stack);React+%7C+JavaScript+%7C+Tailwind" alt="Typing SVG" />
 
 ---
 
