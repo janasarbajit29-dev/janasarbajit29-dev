@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
-Hi! I'm **Sarbajit Jana**, a passionate **Frontend Web Developer** who loves building  
+Hi! I'm **Sarbajit Jana**, a passionate **Fullstack Developer (MERN stack)** who loves building  
 modern, clean and responsive UI using **React + Tailwind CSS**.
 
 - 🔭 Currently working on: React Projects  
