@@ -1,79 +1,74 @@
-```markdown
-<!-- Beautiful Header Animation -->
+<!-- =========================
+     Sarbajit Jana — README
+     (Copy this file to your repo root)
+     ========================= -->
+
+<!-- Animated typing header (works on GitHub) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=900&color=00E7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sarbajit+Jana!;Fullstack+Developer+%7C+MERN+Stack;I+Build+Clean+%26+Modern+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=34&pause=1000&color=00E5FF&center=true&vCenter=true&width=820&lines=Hi,+I'm+Sarbajit+Jana!;Fullstack+Developer+(MERN);I+build+clean+%26+animated+UI" alt="typing" />
 </p>
 
-<!-- Animated Banner -->
+<!-- If you uploaded a hero GIF to assets/hero.gif, this will show -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/banners/animated-web.gif" width="650" />
-</p>
-
----
-## 🚀 About Me
-I'm **Sarbajit Jana**, a passionate **Fullstack (MERN) Developer** focused on building modern, clean and user-friendly web applications.
-I love writing clean code, solving problems, and learning new technologies.
-
-✨ **Goal:** Become a professional MERN Developer
-
----
-## 🛠️ Tech Stack
-### 🎨 Frontend
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</div>
-
-### 🧩 Backend
-<div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
-
-### ⚙️ Tools
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</div>
-
----
-## 🌟 Featured Projects
-| Project | Description | Tech Stack |
-|--------|-------------|-------------|
-| **Todo App** | Task manager with localStorage | React, JS |
-| **Ecommerce UI** | Modern shop UI | React + Tailwind |
-
----
-## 💻 Professional Coding Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/coding/developer.gif" width="300" />
+  <img src="./assets/hero.gif" alt="Hero Animation" width="820" />
 </p>
 
 ---
-## 🌐 Connect With Me
-<div>
-   <a href="https://www.linkedin.com/in/sarbajit-jana-713809361/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+## 👋 About Me
+Hi! I'm **Sarbajit Jana** — a MERN stack enthusiast who builds clean, responsive, and animated user interfaces using **React + Tailwind CSS**.  
+I write readable code and love bringing UI to life with smooth animations.
+
+**Now:** Building React UIs with Framer Motion & Tailwind.  
+**Goal:** Become a Full MERN Stack Engineer.
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+| Project | Short Description | Tech |
+| --- | ---: | :--- |
+| **Todo App** | Animated Todo with nice UX | React, Framer Motion |
+| **Ecommerce UI** | Modern responsive shop UI | React, Tailwind CSS |
+
+---
+
+## 💻 Animated Coding Preview
+<!-- If you uploaded a coding GIF to assets/coding.gif, this will show -->
+<p align="center">
+  <img src="./assets/coding.gif" alt="Coding animation" width="420" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <!-- Replace username=janasarbajit29-dev with your GitHub username if different -->
+  <img src="https://github-readme-stats.vercel.app/api?username=janasarbajit29-dev&show_icons=true&theme=tokyonight&hide_border=true" width="420" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janasarbajit29-dev&layout=compact&theme=tokyonight&hide_border=true" width="360" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/sarbajit-jana-713809361/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://facebook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-</div>
+</p>
 
 ---
 
-<!-- Beautiful END Animation Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/banners/color-lines.gif" width="700" />
-</p>
-
-<p align="center">⭐ Thank you for visiting my profile!</p>
-```
+<p align="center">✨ Thanks for visiting — feel free to explore my repos! ✨</p>
