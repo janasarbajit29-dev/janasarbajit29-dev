@@ -54,12 +54,23 @@ A clean & simple task management application with localStorage support.
 https://github.com/janasarbajit29-dev/Todo_app
  
 
-### 🔹 **3. Portfolio Website**
+### 🔹 **2. Portfolio Website**
 Your personal portfolio website with modern UI.
 
 **Tech:** React , TailwindCss   
 👉 **Project Link:**  
- https://github.com/janasarbajit29-dev/Portfolio_website
+  https://github.com/janasarbajit29-dev/Portfolio
+
+  ### 🔹 **3. Student Management**
+ Developed a full-stack Student Management System using Node.js, Express.js, MongoDB,
+and a simple HTML/CSS/JavaScript frontend. The application supports full CRUD
+operations (Create, Read, Update, Delete) to manage student details such as name, age,
+course, roll number, and marks. This project strengthened my understanding of backend
+development, API design, database handling, and full-stack architecture.
+
+**Tech:** Html , Css , Javascript , MongoDB   
+👉 **Project Link:**  
+ https://github.com/janasarbajit29-dev/student_management
  
  
 ## 🌐 Connect With Me
